@@ -13,7 +13,7 @@ export const metadata = {
 export default function page() {
   return (
     <>
-      <div className="page-wrapper home" id={"portfolio"}>
+      <div className="page-wrapper home-1" id={"portfolio"}>
         <Header />
         <div className="container z-index-3">
           <div className="row">
