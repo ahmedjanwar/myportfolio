@@ -16,7 +16,7 @@ export const contactData = [
     iconClass: "fa-regular fa-envelope-open-text",
     text: {
       label: "Email",
-      value: "example@mail.com",
+      value: "Hamood@email.com",
     },
   },
   {
@@ -26,7 +26,7 @@ export const contactData = [
     iconClass: "fa-solid fa-location-dot",
     text: {
       label: "Location",
-      value: "Hong kong china",
+      value: "Finalnd",
     },
   },
   {
